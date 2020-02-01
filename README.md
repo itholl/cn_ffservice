@@ -73,5 +73,5 @@
 
 ##### bug反馈：QQ1361825893  说明来意  [作者主页](https://weibo.com/3340732700)     
 
-![图片名称](https://github.com/itholl/cn_ffservice/blob/master/appdoing.png)    
+部分人可能会看到裂图 ![程序运行示例](https://github.com/itholl/cn_ffservice/blob/master/appdoing.png)    
   
