@@ -86,7 +86,7 @@
   萌芽   109.244.5.40:55023  
   沃仙   109.244.5.36:55007 
  
-#####  查看IP-Port方法  
+#####  查看IP-Port方法（需要角色进到服务器内执行以下操作）  
 win+R组合键（cmd）  
 1.tasklist -FO CSV | findstr "ffxiv_dx11.exe"  
 "ffxiv_dx11.exe","此处显示端口","Console","1","839,324 K"  
