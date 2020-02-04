@@ -5,7 +5,7 @@
 
 #### 一、 应用程序使用说明 “FF14服务器测试V202.0.3.exe”  
  1.使用前请关闭杀毒软件，部分杀毒软件会随着病毒库升级产生误报  
- 2.下载应用包：[FF14服务器测试V202.0.2.zip](https://github.com/itholl/cn_ffservice/releases/tag/FF14%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E8%AF%95V202.0.2)  
+ 2.下载应用包：[FF14服务器测试V202.0.3.zip](https://github.com/itholl/cn_ffservice/releases/tag/FF14%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E8%AF%95V202.0.3)  
  3.选择 “服务器” 点击 “启动检测” 即可正常检测游戏服务器是否开服  
 
 
