@@ -73,7 +73,7 @@
 
 ##### bug反馈：QQ1361825893  说明来意  [作者主页](https://weibo.com/3340732700)     
 
- ![程序运行示例](https://github.com/itholl/cn_ffservice/blob/master/appdoing.png)    
+ ![程序运行示例](https://github.com/itholl/cn_ffservice/blob/master/mian.png)    
  
   
 ####  五、陆行鸟区(IP-Port)不确定是否根据账号或者时间变动，可能存在每个人不一样，只供参考  
